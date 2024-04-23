@@ -1,4 +1,4 @@
-export const url = "${process.env.ATLAS_URL}/api";
+export const url = "https://urjoshi.vercel.app/api";
 
 export const setHeaders = () => {
   const headers = {
